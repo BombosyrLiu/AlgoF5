@@ -1,0 +1,12 @@
+{
+  "name": "trading-bot",
+  "version": "1.0.0",
+  "main": "api/trading-bot.js",
+  "scripts": {
+    "start": "node api/trading-bot.js"
+  },
+  "dependencies": {
+    "binance-api-node": "^0.11.1",
+    "sqlite3": "^5.1.4"
+  }
+}
